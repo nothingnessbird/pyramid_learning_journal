@@ -51,4 +51,4 @@ def test_list_view_response_has_proper_content(dummy_request):
     from pyramid_learning_journal.views.default import list_view
     response = list_view(dummy_request)
     the_tag = '<h2>401 Python Learning Journal</h2>'
-    assert the_tag in response.ubody
+    assert the_tag in response.body
