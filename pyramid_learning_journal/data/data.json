@@ -1,0 +1,92 @@
+[
+   {
+      "title":"day 13",
+      "text":"stressed beyond words.\r\n\r\nTIL that the Linux process queue uses a type of priority queue that is intuitive to me (a list of lists) and everything else (pretty much) uses a bin heap for a priority queue.",
+      "author":{
+         "course_id":[
+            "sea401d7"
+         ],
+         "username":"nothingnessbird",
+         "id":55,
+         "display_name":"Kinley Ramson"
+      },
+      "id":892,
+      "markdown":"<p>stressed beyond words.</p>\n<p>TIL that the Linux process queue uses a type of priority queue that is intuitive to me (a list of lists) and everything else (pretty much) uses a bin heap for a priority queue.</p>",
+      "created":"2017-11-02T00:40:38.144387"
+   },
+   {
+      "title":"Day 12",
+      "text":"TIL: heaps are cool but binary search trees are cooler. I did successfully build a pretty good heap, though.",
+      "author":{
+         "course_id":[
+            "sea401d7"
+         ],
+         "username":"nothingnessbird",
+         "id":55,
+         "display_name":"Kinley Ramson"
+      },
+      "id":889,
+      "markdown":"<p>TIL: heaps are cool but binary search trees are cooler. I did successfully build a pretty good heap, though.</p>",
+      "created":"2017-11-01T15:49:24.895227"
+   },
+   {
+      "title":"Day 5....home",
+      "text":"Spent the entire day with a migraine, but I've already learned a lot that I missed! Ran into some fun things that I would have learned in class, and instead learned the hard way.",
+      "author":{
+         "course_id":[
+            "sea401d7"
+         ],
+         "username":"nothingnessbird",
+         "id":55,
+         "display_name":"Kinley Ramson"
+      },
+      "id":690,
+      "markdown":"<p>Spent the entire day with a migraine, but I've already learned a lot that I missed! Ran into some fun things that I would have learned in class, and instead learned the hard way.</p>",
+      "created":"2017-10-22T01:13:38.262411"
+   },
+   {
+      "title":"Day 3 (/4) GO!",
+      "text":"TIL that I'm way out of my depth. Or at least it feels that way a significant portion of the time. I also learned that errors that only crop up some of the time are a real bitch to handle.",
+      "author":{
+         "course_id":[
+            "sea401d7"
+         ],
+         "username":"nothingnessbird",
+         "id":55,
+         "display_name":"Kinley Ramson"
+      },
+      "id":626,
+      "markdown":"<p>TIL that I'm way out of my depth. Or at least it feels that way a significant portion of the time. I also learned that errors that only crop up some of the time are a real bitch to handle.</p>",
+      "created":"2017-10-20T00:37:07.272655"
+   },
+   {
+      "title":"Day 2 GO!",
+      "text":"Woo recursion! And so happy to be doing some logic and math! Still struggling with translating JS to Python in my head, and I'm sure I will be for some time yet. I'm enjoying the experience of comparing and contrasting the languages, though, and also how much more versatile python feels.",
+      "author":{
+         "course_id":[
+            "sea401d7"
+         ],
+         "username":"nothingnessbird",
+         "id":55,
+         "display_name":"Kinley Ramson"
+      },
+      "id":598,
+      "markdown":"<p>Woo recursion! And so happy to be doing some logic and math! Still struggling with translating JS to Python in my head, and I'm sure I will be for some time yet. I'm enjoying the experience of comparing and contrasting the languages, though, and also how much more versatile python feels.</p>",
+      "created":"2017-10-17T23:35:02.577843"
+   },
+   {
+      "title":"Day 1 GO!",
+      "text":"Most of what I learned today is meta-level, instead of object-level programming stuff. I learned how finicky linux is (not for the first or last time) and I learned how much effort can go into just being ready to *start*. I learned that I feel very intimidated and discouraged by the whole talk that Brandy gave, and I am making a deliberate effort not to let it destroy what grit I have. I am not able to do this networking thing....yet. Growth mindset.",
+      "author":{
+         "course_id":[
+            "sea401d7"
+         ],
+         "username":"nothingnessbird",
+         "id":55,
+         "display_name":"Kinley Ramson"
+      },
+      "id":576,
+      "markdown":"<p>Most of what I learned today is meta-level, instead of object-level programming stuff. I learned how finicky linux is (not for the first or last time) and I learned how much effort can go into just being ready to <em>start</em>. I learned that I feel very intimidated and discouraged by the whole talk that Brandy gave, and I am making a deliberate effort not to let it destroy what grit I have. I am not able to do this networking thing....yet. Growth mindset.</p>",
+      "created":"2017-10-16T22:14:15.063275"
+   }
+]
